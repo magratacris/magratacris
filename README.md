@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **TypeScript skills**
 
-- 👨‍💻 All of my projects are available at [crismagrata.dev](crismagrata.dev)
+- 👨‍💻 All of my projects are available at [crismagrata.dev](https://crismagrata.dev)
 
 - 💬 Ask me about **React, Next.js, Tailwind CSS**
 
