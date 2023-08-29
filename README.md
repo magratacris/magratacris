@@ -3,7 +3,7 @@
 <h3 align="center">I am a passionate frontend developer from the Philippines.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif?cid=ecf05e47ic0prcp0bq3perms7drrygjvfs8iwxa46deeop7u&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on my **TypeScript skills**
+- 🔭 Diving into the exciting world of **mini projects** and **small creations.**
 
 - 👨‍💻 All of my projects are available at [crismagrata.dev](https://crismagrata.dev)
 
